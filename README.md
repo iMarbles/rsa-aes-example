@@ -1,4 +1,4 @@
-# RSA_AES_Example
+# RSA & AES Example
 RSA2048 and AES256 as keys for Java and C#.
 
 Codes used allows encryption and decryption between both languages.
