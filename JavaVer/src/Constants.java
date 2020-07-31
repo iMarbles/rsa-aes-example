@@ -1,5 +1,5 @@
 public class Constants {
-    private static String FOLDER = "../Docs/";
+    private static String FOLDER = "../Output/";
 
     public static String PRIVATE_KEY = FOLDER + "private.txt";
     public static String PUBLIC_KEY = FOLDER + "public.txt";
