@@ -1,6 +1,10 @@
 Output/java_decrypt_test.txt
 Output/java_encrypt_test.txt
+Output/csharp_decrypt_test.txt
+Output/csharp_encrypt_test.txt
 
 JavaVer/.idea/
 JavaVer/out/
 JavaVer/*.iml
+
+CSharpVer/.vs/
